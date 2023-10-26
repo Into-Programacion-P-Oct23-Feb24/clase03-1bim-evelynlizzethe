@@ -31,8 +31,9 @@ public class Ejemplo03 {
         */
         int variable1;
         int variable2 = 10;
-        int valorInicial = 18;
-        int valor_inicial = 18;
+        int valorInicial = 18; // ok
+        int valor_inicial = 18; // ok
+        int valor_incial = 18; // no usar
         // int valor inicial = 18;
         int valor_inicial_2 = 18;
 
@@ -49,7 +50,7 @@ public class Ejemplo03 {
         char variable8 = 'a';
 
         // tipo de dato boolean - boleano
-        boolean variable9 = false;
+        boolean variable9 = false; 
         boolean variable10 = true;
         
         boolean variable11 = false;
